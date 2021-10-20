@@ -1,4 +1,4 @@
-lion yellow
+lion violet 
 tiger
 leopard
 turtle Donatello
