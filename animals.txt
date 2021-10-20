@@ -1,4 +1,5 @@
-lion white
+lion blue
 tiger white (PSR)
+tiger
 leopard
 turtle Donatello
