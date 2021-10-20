@@ -1,5 +1,4 @@
 lion yellow
-tiger
+tiger white (PSR)
 leopard
 turtle Donatello
-Oso Panda
